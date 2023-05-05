@@ -1,0 +1,2 @@
+# Payment-Integration-with-JSP-Servlets
+The user enters payment details such as the amount, name, email, order_id, and currency.The system sends a payment request to Razorpay, providing the payment details entered by the user. Razorpay redirects the user to the payment page to enter their payment information. The user enters their payment information, such as their card details, and submits the payment. Razorpay processes the payment and sends a payment confirmation to the system. The system confirms the payment with the user, completing the payment integration process.
